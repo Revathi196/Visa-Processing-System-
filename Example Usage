@@ -1,0 +1,24 @@
+Visa Processing System
+1. Apply for Visa
+2. Check Application Status
+3. Update Application Status
+4. View All Applications
+5. Exit
+
+Enter your choice (1-5): 1
+Enter applicant name: John Doe
+Enter applicant nationality: USA
+Enter visa type (Tourist/Work/Student): Tourist
+Visa application submitted successfully. Application ID: 4f576b4b-5ef5-4d10-9b9f-ddb07e573092
+
+Enter your choice (1-5): 2
+Enter application ID: 4f576b4b-5ef5-4d10-9b9f-ddb07e573092
+Application Status: Pending
+
+Enter your choice (1-5): 3
+Enter application ID: 4f576b4b-5ef5-4d10-9b9f-ddb07e573092
+Enter new status (Approved/Denied/Pending): Approved
+Application ID 4f576b4b-5ef5-4d10-9b9f-ddb07e573092 status updated to: Approved
+
+Enter your choice (1-5): 4
+Application ID: 4f576b4b-5ef5-4d10-9b9f-ddb07e573092, Name: John Doe, Status: Approved, Visa Type: Tourist, Application Date: 2023-10-07 12:34:56
